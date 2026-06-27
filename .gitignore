@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+*.pyc
+src/sandbox/
+before.png
+after.png
+last_code_diff.log

@@ -1,0 +1,7 @@
+crewai==1.13.0
+crewai-tools==1.13.0
+python-dotenv==1.2.2
+gitpython
+playwright
+litellm==1.89.3
+
